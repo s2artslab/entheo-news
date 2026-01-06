@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Commercial Framing Problem
-date: 2026-01-06
+date: 2026-01-06 00:00:00 -0000
 categories: ['governance', 'commercial-dynamics']
 ---
 
