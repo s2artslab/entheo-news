@@ -115,7 +115,7 @@ git push -u origin main
    ---
    layout: post
    title: Your Post Title
-   date: 2025-01-06
+   date: 2026-01-06
    categories: [category1, category2]
    ---
    ```

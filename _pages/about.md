@@ -291,7 +291,7 @@ This archive is maintained by a team committed to accurate documentation and cle
 
 ---
 
-**Last Updated:** January 3, 2025  
+**Last Updated:** January 6, 2026  
 **Archive Status:** Active and regularly updated  
 **Content License:** Content may be cited with attribution
 

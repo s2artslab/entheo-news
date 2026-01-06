@@ -54,7 +54,7 @@ The tension between commercial interests and sacred practices is not new, but it
 
 **Related:** [The Entheogenic Doctrine](/doctrine) | [Start Here: The Governance Problem](/start-here) | [About This Archive](/about)
 
-**Citation:** Entheo.News Archive. "The Commercial Framing Problem." *Entheo.News*. January 3, 2025. https://entheo.news/first-post-commercial-framing
+**Citation:** Entheo.News Archive. "The Commercial Framing Problem." *Entheo.News*. January 6, 2026. https://entheo.news/first-post-commercial-framing
 
 ---
 

@@ -101,7 +101,7 @@ This archive tracks that evolution.
 
 **Related:** [The Entheogenic Doctrine](/doctrine) | [Start Here: The Governance Problem](/start-here) | [Case Studies](/cases) | [Timeline](/timeline)
 
-**Citation:** Entheo.News Archive. "The Governance Gap." *Entheo.News*. January 3, 2025. https://entheo.news/third-post-governance-gap
+**Citation:** Entheo.News Archive. "The Governance Gap." *Entheo.News*. January 6, 2026. https://entheo.news/third-post-governance-gap
 
 ---
 

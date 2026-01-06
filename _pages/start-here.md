@@ -254,7 +254,7 @@ This archive documents these tensions, analyzes their implications, and provides
 
 ---
 
-**Last Updated:** January 3, 2025  
+**Last Updated:** January 6, 2026  
 **Entry Point:** This page serves as the primary entry point for new readers
 
 ---

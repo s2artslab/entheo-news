@@ -199,7 +199,7 @@ The Entheogenic Doctrine defines entheogenic practices as intentional, structure
 
 ---
 
-**Last Updated:** January 3, 2025  
+**Last Updated:** January 6, 2026  
 **Maintained by:** Entheo.News Editorial Team  
 **Citation:** This page may be cited in scholarly and journalistic work
 

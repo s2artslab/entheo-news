@@ -88,7 +88,7 @@ This archive exists to document these tensions and provide resources for underst
 
 **Related:** [The Entheogenic Doctrine](/doctrine) | [Start Here: The Governance Problem](/start-here) | [Case Studies](/cases)
 
-**Citation:** Entheo.News Archive. "A Quiet Legal Anomaly." *Entheo.News*. January 3, 2025. https://entheo.news/second-post-legal-anomaly
+**Citation:** Entheo.News Archive. "A Quiet Legal Anomaly." *Entheo.News*. January 6, 2026. https://entheo.news/second-post-legal-anomaly
 
 ---
 

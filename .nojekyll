@@ -1,0 +1,5 @@
+# This file tells GitHub Pages to use Jekyll
+# If this file exists, Jekyll is disabled
+# We want Jekyll enabled, so this file should NOT exist
+# Removing it ensures Jekyll processes the site
+
