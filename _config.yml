@@ -30,6 +30,9 @@ collections:
 # Theme
 theme: minima
 
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
 # Defaults
 defaults:
   - scope:
@@ -40,3 +43,4 @@ defaults:
       path: "_posts"
     values:
       layout: post
+      permalink: /:year/:month/:day/:title/
