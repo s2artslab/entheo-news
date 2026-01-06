@@ -1,35 +1,42 @@
 # Entheo.News Jekyll Configuration
 title: Entheo.News
 description: Documentation Archive for Journalists and Scholars
-url: https://entheo.news
-baseurl: ""
+url: "https://s2artslab.github.io"
+baseurl: "/entheo-news"
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Navigation
-navigation:
-  - title: Doctrine
-    url: /doctrine
-  - title: About
-    url: /about
-  - title: Start Here
-    url: /start-here
-  - title: Cases
-    url: /cases
-  - title: Timeline
-    url: /timeline
-
-# Theme
-theme: minima
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - DEPLOY_TO_GITHUB.md
 
 # Collections
 collections:
   pages:
     output: true
-  cases:
-    output: true
+    permalink: /:name/
+
+# Theme
+theme: minima
+
+# Defaults
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
