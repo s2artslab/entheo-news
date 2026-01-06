@@ -1,0 +1,35 @@
+# Entheo.News Jekyll Configuration
+title: Entheo.News
+description: Documentation Archive for Journalists and Scholars
+url: https://entheo.news
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: Doctrine
+    url: /doctrine
+  - title: About
+    url: /about
+  - title: Start Here
+    url: /start-here
+  - title: Cases
+    url: /cases
+  - title: Timeline
+    url: /timeline
+
+# Theme
+theme: minima
+
+# Collections
+collections:
+  pages:
+    output: true
+  cases:
+    output: true

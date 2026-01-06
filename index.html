@@ -1,0 +1,35 @@
+---
+layout: default
+title: Entheo.News
+---
+
+<div class="home">
+  <h1>Entheo.News</h1>
+  <p class="subtitle">Documentation Archive for Journalists and Scholars</p>
+  
+  <div class="intro">
+    <p>Entheo.News exists to document what happens when entheogenic practices encounter regulation, commerce, and power.</p>
+    <p>This is not advocacy. This is documentation.</p>
+  </div>
+  
+  <div class="quick-links">
+    <h2>Start Here</h2>
+    <ul>
+      <li><a href="/start-here">Start Here: The Governance Problem</a></li>
+      <li><a href="/doctrine">The Entheogenic Doctrine</a></li>
+      <li><a href="/about">About This Archive</a></li>
+    </ul>
+  </div>
+  
+  <div class="recent-posts">
+    <h2>Recent Posts</h2>
+    <ul>
+      {% for post in site.posts limit:5 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
