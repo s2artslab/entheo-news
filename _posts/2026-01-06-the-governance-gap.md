@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Governance Gap
-date: 2026-01-06
+date: 2026-01-06 00:00:00 -0000
 categories: ['governance', 'policy']
 ---
 
