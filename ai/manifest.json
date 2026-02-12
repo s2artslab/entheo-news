@@ -1,0 +1,86 @@
+﻿{
+    "description":  "AI-accessible markdown archive of all Entheo.News content",
+    "updated":  "2026-02-12",
+    "posts":  [
+                  {
+                      "date":  "2026-01-06",
+                      "title":  "A Quiet Legal Anomaly",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/posts/a-quiet-legal-anomaly.md",
+                      "categories":  [
+                                         "legal-developments",
+                                         "governance"
+                                     ],
+                      "slug":  "a-quiet-legal-anomaly"
+                  },
+                  {
+                      "date":  "2026-01-06",
+                      "title":  "The Commercial Framing Problem",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/posts/the-commercial-framing-problem.md",
+                      "categories":  [
+                                         "governance",
+                                         "commercial-dynamics"
+                                     ],
+                      "slug":  "the-commercial-framing-problem"
+                  },
+                  {
+                      "date":  "2026-01-06",
+                      "title":  "The Governance Gap",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/posts/the-governance-gap.md",
+                      "categories":  [
+                                         "governance",
+                                         "policy"
+                                     ],
+                      "slug":  "the-governance-gap"
+                  },
+                  {
+                      "date":  "2026-02-10",
+                      "title":  "Indigenous Precedent and Modern Law: The Unresolved Tension",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/posts/indigenous-precedent-and-modern-law.md",
+                      "categories":  [
+                                         "legal",
+                                         "indigenous-rights"
+                                     ],
+                      "slug":  "indigenous-precedent-and-modern-law"
+                  },
+                  {
+                      "date":  "2026-02-10",
+                      "title":  "The Clinical Trial Landscape in 2026: Where the Science Stands",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/posts/the-clinical-trial-landscape-2026.md",
+                      "categories":  [
+                                         "research",
+                                         "clinical-trials"
+                                     ],
+                      "slug":  "the-clinical-trial-landscape-2026"
+                  },
+                  {
+                      "date":  "2026-02-10",
+                      "title":  "The Scheduling Question: Why Federal Rescheduling Won\u0027t Solve the Research Problem",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/posts/the-scheduling-question.md",
+                      "categories":  [
+                                         "governance",
+                                         "regulation"
+                                     ],
+                      "slug":  "the-scheduling-question"
+                  }
+              ],
+    "site":  "Entheo.News",
+    "custom_domain":  "https://entheo.news/ai",
+    "pages":  [
+                  {
+                      "title":  "About This Archive",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/pages/about.md",
+                      "slug":  "about"
+                  },
+                  {
+                      "title":  "The Entheogenic Doctrine",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/pages/doctrine.md",
+                      "slug":  "doctrine"
+                  },
+                  {
+                      "title":  "Start Here: The Governance Problem",
+                      "url":  "https://s2artslab.github.io/entheo-news/ai/pages/start-here.md",
+                      "slug":  "start-here"
+                  }
+              ],
+    "base_url":  "https://s2artslab.github.io/entheo-news/ai"
+}
