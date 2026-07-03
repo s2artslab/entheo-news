@@ -1,8 +1,8 @@
 # Entheo.News Jekyll Configuration
 title: Entheo.News
 description: Documentation Archive for Journalists and Scholars
-url: "https://s2artslab.github.io"
-baseurl: "/entheo-news"
+url: "https://entheo.news.s2artslab.com"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -20,6 +20,10 @@ exclude:
   - vendor
   - README.md
   - DEPLOY_TO_GITHUB.md
+  - ai
+  - scripts
+  - POST_404_FIX.md
+  - FIX_404_ISSUES.md
 
 # Collections
 collections:

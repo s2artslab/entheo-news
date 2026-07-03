@@ -28,9 +28,9 @@ ai/
 
 ## Access
 
-- **Base URL:** https://s2artslab.github.io/entheo-news/ai/
-- **Example post:** https://s2artslab.github.io/entheo-news/ai/posts/a-quiet-legal-anomaly.md
-- **Manifest:** https://s2artslab.github.io/entheo-news/ai/manifest.json
+- **Base URL:** https://entheo.news.s2artslab.com/ai/
+- **Example post:** https://entheo.news.s2artslab.com/ai/posts/a-quiet-legal-anomaly.md
+- **Manifest:** https://entheo.news.s2artslab.com/ai/manifest.json
 
 ## Sync
 

@@ -2,7 +2,7 @@
 
 **Purpose:** All Entheo.News content as raw markdown for AI systems, RAG pipelines, and programmatic access.
 
-**Base URL:** https://s2artslab.github.io/entheo-news/ai/  
+**Base URL:** https://entheo.news.s2artslab.com/ai/  
 **Custom domain:** https://entheo.news/ai/ (if configured)
 
 ---
@@ -31,7 +31,7 @@
 ## For AI / Programmatic Access
 
 - **Manifest (JSON):** [manifest.json](manifest.json) â€” Machine-readable list of all MD files with metadata
-- **Full URLs:** Prepend base URL to relative paths above (e.g. `https://s2artslab.github.io/entheo-news/ai/posts/a-quiet-legal-anomaly.md`)
+- **Full URLs:** Prepend base URL to relative paths above (e.g. `https://entheo.news.s2artslab.com/ai/posts/a-quiet-legal-anomaly.md`)
 
 ---
 

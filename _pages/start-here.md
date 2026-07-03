@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Start Here: The Governance Problem
+title: "Start Here: The Governance Problem"
 permalink: /start-here/
 ---
 
