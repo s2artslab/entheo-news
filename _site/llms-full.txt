@@ -1,0 +1,9 @@
+# Entheo News Full Public Context
+
+## Entheo News Archive
+
+URL: https://entheo.news.s2artslab.com/
+
+Entheo News publishes entheogenic practice, regulation, governance, clinical research, legal context, and public-interest archive material.
+
+Entheo News Archive. Entheo News publishes entheogenic practice, regulation, governance, clinical research, legal context, and public-interest archive material. This public discovery page describes the app's purpose, audience, and relationship to the S2 ecosystem. It is intended for search engines, AI agents, and human visitors who need a clear overview before opening the app. Private account data, user-generated records, messages, journals, payments, internal dashboards, and sensitive operational material are excluded from public indexing. The page links only to canonical public resources and related S2 surfaces.

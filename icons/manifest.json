@@ -1,0 +1,16 @@
+{
+  "name": "Entheo News",
+  "short_name": "Entheo",
+  "description": "Documentation archive for journalists and scholars.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0612",
+  "theme_color": "#F59E0B",
+  "icons": [
+    { "src": "Icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "Icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

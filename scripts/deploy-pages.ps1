@@ -58,6 +58,9 @@ if (-not (Test-Path $siteDir)) {
   throw "Missing _site. Run without -SkipBuild or fix the Jekyll build."
 }
 
+$visibility = Join-Path (Resolve-Path (Join-Path $Root "..\..\shared\s2-visibility")) "Invoke-S2Visibility.ps1"
+& $visibility -Surface entheoNews -WebDir $siteDir
+
 $wrangler = if (Get-Command wrangler -ErrorAction SilentlyContinue) { "wrangler" } else { "npx" }
 if ($wrangler -eq "npx") {
   npx --yes wrangler@3 pages deploy $siteDir `

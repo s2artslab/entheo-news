@@ -1,0 +1,13 @@
+# Entheo News
+
+> Entheo News publishes entheogenic practice, regulation, governance, clinical research, legal context, and public-interest archive material.
+
+This file is a curated guide to the public, canonical S2 source material for search engines, AI agents, and human researchers.
+
+## Public Pages
+- [Entheo News Archive](https://entheo.news.s2artslab.com/): Entheo News publishes entheogenic practice, regulation, governance, clinical research, legal context, and public-interest archive material.
+
+## Related S2 Surfaces
+- [Myco Method](https://myco-method.com/): Related S2 ecosystem surface for Entheo News.
+- [Journeys](https://journeys.s2artslab.com/journeys.html): Related S2 ecosystem surface for Entheo News.
+- [Threshold](https://threshold.s2artslab.com/): Related S2 ecosystem surface for Entheo News.
